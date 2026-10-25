@@ -44,3 +44,4 @@ Also, please help validate and check existing checklists and raise any concerns 
 
 ## Pull Request Checklist
 - [Frontend pull request checklist](https://github.com/sapegin/frontend-pull-request-checklist) This a meta checklist that makes sure you have done all necessary checks before your frontend code goes through a pull request.
+- [Developer checklist templates](https://github.com/michaelmiscanuk/dev-checklist-templates) Pull request templates with the Must checks for six kinds of change (new tables and migrations, CI/CD, a responsive page, class design, an LLM prompt, a feature end to end), with Stop if lines that say when to pause, plus the full checklists with how to verify each check.
